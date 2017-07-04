@@ -5,6 +5,8 @@
  */
 package antidrogas;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Fausto
@@ -16,6 +18,7 @@ public class Antidrogas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null,"Campos Vacios");
     }
     
 }
