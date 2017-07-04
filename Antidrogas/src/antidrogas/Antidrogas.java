@@ -19,6 +19,8 @@ public class Antidrogas {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null,"Campos Vacios");
+         JOptionPane.showMessageDialog(null,"1");
+         JOptionPane.showMessageDialog(null,"2");
     }
     
 }
